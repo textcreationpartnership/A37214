@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This for the Parliament, Counsel, and the officers of the army of the Common-wealth of England, Scotland and Ireland; in patience to read and consider, Eccle. 7. 8, 9. Hag. 1. 5. Being that the servants of the Lord are to finish their true and faithful testimony against the world, as the Lord shall move them so to do, who live and move in him, that so they may finish their course with joy; and now for this end and purpose have I given forth this my testimony, that I might be found doing the will of God, whom I serve in the Spirit of his Son, not knowing but that my service herein may be acceptable to all, or some of you, and if but to one, shall be glad, and if to none, my labour shall not be in vain in the Lord, who is the reward of all them that obey him and diligently seek him. Written about the middle of the sixth month, 1659. By a lover of the truth, as it is in Jesus, a late member of the army, known by the name of Thomas Davenport</title>
+            <author>T. D. Thomas Davenport.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37214</idno>
+            <idno type="STC">Wing D373</idno>
+            <idno type="STC">ESTC R215332</idno>
+            <idno type="EEBO-CITATION">99827232</idno>
+            <idno type="PROQUEST">99827232</idno>
+            <idno type="VID">31648</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31648)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1846:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This for the Parliament, Counsel, and the officers of the army of the Common-wealth of England, Scotland and Ireland; in patience to read and consider, Eccle. 7. 8, 9. Hag. 1. 5. Being that the servants of the Lord are to finish their true and faithful testimony against the world, as the Lord shall move them so to do, who live and move in him, that so they may finish their course with joy; and now for this end and purpose have I given forth this my testimony, that I might be found doing the will of God, whom I serve in the Spirit of his Son, not knowing but that my service herein may be acceptable to all, or some of you, and if but to one, shall be glad, and if to none, my labour shall not be in vain in the Lord, who is the reward of all them that obey him and diligently seek him. Written about the middle of the sixth month, 1659. By a lover of the truth, as it is in Jesus, a late member of the army, known by the name of Thomas Davenport</title>
+                  <author>T. D. Thomas Davenport.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bulla and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Friends House Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31648:1"/>
+            <pb facs="tcp:31648:1" rendition="simple:additions"/>
+            <p>This for the PARLIAMENT, COUNSEL, <hi>And the Officers of the</hi> ARMY Of the Common-wealth of England, Scotland and Ireland; <hi>In patience to read and conſider,</hi> Eccle. 7. 8, 9. Hag. 1. 5.</p>
+            <p>Being that the ſervants of the Lord are to finiſh their true and faithful Teſtimony againſt the world, as the Lord ſhall move them ſo to do, who live and move in him, that ſo they may finiſh their courſe with joy; And now for this end and purpoſe have <hi>I</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> given forth this my Teſtimony, that <hi>I</hi> might be found doing the Will of God, whom <hi>I</hi> ſerve in the Spirit of his Son, not knowing but that my ſervice herein may be acceptable to all, or ſome of you, and if but to one, ſhall be glad, and if to none, my la<g ref="char:EOLhyphen"/>bour ſhall not be in vain in the Lord, who is the reward of all them that obey him and diligently ſeek him.</p>
+            <p>Written about the middle of the ſixth Month, 1659.</p>
+            <p>By a lover of the truth, as it is in Jeſus, a late Member of the Army, known by the name of THOMAS DAVENPORT.</p>
+            <p>
+               <bibl>Lament. 3<g ref="char:punc">▪</g> 40.</bibl> 
+               <q>Let us ſearch and try our wayes, and turn again unto the Lord.</q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Alderſgate, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31648:2" rendition="simple:additions"/>
+            <head>This for the Parliament, Councel, and the Officers of the Army of the Common-Wealth of <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland,</hi> in patience to read and conſider, <hi>Eccleſ. 7, 8, 9. Hag. 1. 5.</hi>
+            </head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>THis is the day of the Lords power, wherein the light ſhineth, and hath moſt gloriouſly appeared, and is breaking forth more and more unto the perfect day, being the day of your viſitation wherein you have been warned; ſo that none of you can ſay that you are ignorant of what you ſhould have done for the Lord, for his Servants have not had their mouths ſhut, but by the Lord God have been opened to declare unto you their meſ<g ref="char:EOLhyphen"/>ſage from the Lord, that you might have been turned from darkneſs to the light, from the power of Satan to God; and though the moſt of you have ſought by excuſes to put it off from you (and made light of it) as a thing not worth tak<g ref="char:EOLhyphen"/>ing notice of, and to cover your ſelves; yet I ſay you ſhall not be covered in this his day, for there is nothing covered that ſhall not be revealed, neither hid that ſhall not be known; for the word within you is a diſcerner of the thoughts and intents of your hearts, ſo that all co<g ref="char:EOLhyphen"/>verings and vailes are and ſhall be rent, and wo be to him that is covered and not with the Spirit of the Lord; and therefore you cannot be cleared before the Lord God, for that which he hath placed in you, as a witneſſe for himſelf, doth teſtifie againſt you to your faces, that you have not been faithful to the Lord, to, and in what he hath intruſted you withal, even unto that which he hath made known unto you; therefore is the Lord God coming forth againſt you, to warn you, and alſo to plead with you, ſeeing the cauſe of his peo<g ref="char:EOLhyphen"/>ple you have not pleaded, and if deliverance will not come, by you, to his own ſeed, he will ariſe to deliver ſome other way, and break you in pieces as he hath done thoſe that have gone before you, and he will plead the cauſe of his own dear
+<pb n="3" facs="tcp:31648:2"/> and tender lambs himſelf, whom you have neglected to hear; hath not their cauſe come before you? have not you heard of the oppreſſions of the Saints, and who it is that oppreſſed them? are theſe things come before you, and they not relie<g ref="char:EOLhyphen"/>ved, and power in your hands to do it if you had ſtood in the Lords Councel? nay, you have been ſo far from pleading their cauſe, that you have taken part with them that have been their oppreſſors, in that you have ſtrengthened their hands that they may continue ſtill to prey upon the ſervants of the Lord; have not theſe greedy dogs the Prieſts (for ſo the Prophet calls them) which will never have enough? have they not been tearing in pieces, and ſpoiling and perſecuting the Saints, declaring of what generation they are born, after the fleſh, fulfilling the Scripture, for as it was, even ſo is it now; and are they not upheld by a Law formerly made by the Pope? and now upheld by you, nay worſe, in that treble dammage is eſtabliſhed? and ſome have ſheltered themſelves under this, and have taken four or five fold, and others almoſt all that poor men have, having no regard to wife or children; ſuch is their cruelty to ſatisfie their beaſtly luſts; and you having no more regard to preſerve the Nation; Therefore it is juſt that the ſword ſhould come upon you, in that ſuch a generation as this is now upheld by you, who are ready<g ref="char:punc">▪</g> (in all Plots and Conſpiracies laid to ſhed inno<g ref="char:EOLhyphen"/>cent blood) to have their hands in them, and againſt your ſelves, as at this day doth appear, which is all the reward you get from them at the beſt, which is leſs then to have your Souls devoured; And hath not the Lord overturned them that went before you, whoſe hands were found in theſe things which you uphold? and do you think to proſper whilſt you uphold ſuch oppreſſion, contrary to what your covenant and promiſe was openly, and in ſecret before the Lord? Now let that of God in your own Conſciences judge, whether this be right in the ſight of God, and whe<g ref="char:EOLhyphen"/>ther in this the Good Old Cauſe be maintained, or bondage continued (in ſtead of liberty) for tender Conſciences? Now if you mind not your Covenant made to the Lord, as they minded not that went before you, whom the Lord hath
+<pb n="4" facs="tcp:31648:3"/> overturned, the ſame ſhall overturn you and bring you down, if you walk in their ſteps; this was their iniquity, and is yours now to uphold ſuch things, as namely, Tithes, which the Lord Jeſus the ſecond Prieſthood by his coming in the fleſh hath put an end unto, he abiding a Prieſt for e<g ref="char:EOLhyphen"/>ver, who is made not after the law of a carnal command<g ref="char:EOLhyphen"/>ment, but after the power of an endleſs life; now the Prieſthood being changed, there is made of neceſſity a change of the whole Law; I ſay, it was their ſin and is yours now to uphold them; and ſhall not the iniquity of the wicked deſtroy them? Surely it ſhall, if they turn not from it and repent; now let that of God, which is juſt in you all, make an<g ref="char:EOLhyphen"/>ſwer; if the Lord ſhould throw you down, and there ſhould come to reign over you (you returning and becoming faith<g ref="char:EOLhyphen"/>ful to the Lord in what you knew) and for Conſcience ſake towards God could not ſubmit unto ſuch things as ſhould be impoſed on you, would you be dealt ſo with your ſelves? would you have your goods ſpoiled, and your bodies caſt into priſon, into dungeons and holes? would you be whipt, ſtockt and ſtoned for that you could not do, becauſe of the fear of the Lord? and would you Judge it a Juſt &amp; Righteous thing in them, who had power to reſtrain your perſecutors &amp; would not? and is it a Juſt and Righteous thing that we ſhould pay them wages that do no work for us? or would you have us to pay wages to other mens ſervants? nay, would you have the ſervants of the Lord to pay them wages who ſerve not the Lord Jeſus Chriſt, but their own bellies, who are enemies to the Son of Righteouſneſs in that ſervice they do, ſeeking to turn men from the true Light, and ſo ſhuts the Kingdom againſt men, and will neither go in them<g ref="char:EOLhyphen"/>ſelves, nor ſuffer them that are entering to go in, which Chriſt cryes wo againſt? Now can ye friends and ſervants of the Lord uphold ſuch as theſe (and now let that of God in you all judge, whether you be his ſervants that uphold them?) ſhall not we rather with the Prophets, Chriſt and the Apoſtles bear our Teſtimony againſt them, who have ſaid, The watchmen are all blind and ignorant, all of them dumb dogs and greedy, which can never have enough,
+<pb n="5" facs="tcp:31648:3"/> and ſhepherds that cannot underſtand, they all look to their own way, every one for his own gain from his Quarter, like beaſts of the field that ſeek to devour; and alſo the Prophet cryeth out, Mine heart is broken within me, becauſe of the Prophets, all my bones ſhake, for both the Prophets and Prieſts are prophane; yea, in mine houſe have I found their wickedneſs, ſaith the Lord; I have ſeen alſo in the Prophets of <hi>Jeruſalem</hi> a horrible thing, They commit adultery, and walk in lyes, they ſtrengthen alſo the hands of the evil<g ref="char:EOLhyphen"/>doers, that none do return from his wickedneſs, for from the Prophets is prophanneſs gone out into all the land<g ref="char:punc">▪</g> and ſaith the Prophet, There is a conſpiracy among the Prophets like roaring Lyons, ravening the prey, they have devoured Souls, her Prieſts have violated my Law, and have prophaned my Holy things, they have put no difference between the Holy and prophane, neither have they ſhewed difference between the unclean and the clean; and may not the ſame Teſtimony be born againſt the Prieſts of <hi>England,</hi> now in this his day by the Servants of the Lord? and the Lord Jeſus calls them Phariſees, Hypocrites, and cryes wo againſt them that go in long robes, and loves the uppermoſt rooms at Feaſts, and the chief ſeats in the Synagogues, and greeting in the Markets, and love to be called of men Maſter, Ma<g ref="char:EOLhyphen"/>ſter; and ſaith he, ye ſhall know them by their fruits, their hearts they have exerciſed with covetous practiſes, witneſs their cruel perſecutions, &amp; that they have forſaken the right way, and are gone aſtray following the way of <hi>Balaam,</hi> who loved the wages of unrighteouſneſs, but theſe are worſe, for he durſt not take it; and ſaith the Prophet, Put into their mouths and they will ſpeak Peace to them; but theſe are worſe, for thoſe that have upheld them, and put into their mouths, they are preparing War againſt them; and if you ſay they are not all ſuch, to wit, the Miniſters, ſo called; I s;wer, though ſome of them have put on a thicker covering, and their deceit, to them who are out of the Light of the Body which is the ſingle eye, cannot be diſcer<g ref="char:EOLhyphen"/>ned, yet in the pure Light of God are they all ſeen and made manifeſt to be of the ſame nature, root and
+<pb n="6" facs="tcp:31648:4"/> ground, for there is no difference among them, who brings not the doctrine of Chriſt, and being out of the faith that purifieth the heart, are drove out from the preſence of the Lord God with <hi>Cain</hi> who was a murtherer, and ſlew his Brother, and wherefore ſlew he him? becauſe his works were evil and his Brothers good; but behold, the Lord is againſt all falſe prophets, prieſts and miniſters, that ſteals my Word every one from his Neighbour, and uſe their tongues and ſay, He ſaith it, when the Lord hath not ſpoken unto them; the Lord will require it at their hands. Now be you warned from the Lord God of Heaven and Earth, that ye do not hold them up in their deceits, for this I declare from the Lord God of Heaven and Earth, that that which helpeth, and they that are holpen ſhall fall together, for a witneſs I am for the Lord God, knowing the terrour of the Lord, whoſe wrath is revealed from Heaven againſt all ungodlineſs and unrighteouſneſs of men, who hold the truth in un<g ref="char:EOLhyphen"/>righteouſneſs, and unto them that are contentious and do not obey the truth, indignation and wrath, tribulation and anguiſh upon every Soul of man that doth evil, for there is no reſpect of perſons with God.</p>
+            <p>And if you ſay, we will not be ſubject to the higher Power, but ſlight Magiſtrates and will give them no honour, nor yield obedience to the Laws of the Land, which ye Magiſtrates are bound to uphold.</p>
+            <p>I anſwer, We are ſubject to the higher Power, for there is no power but of God, and to that Power which is of God we are ſubject, unto which all muſt bow, of things both in Heaven and Earth; and becauſe we are ſubject to the higher Power, and for Conſcience ſake cannot reſiſt the power which is the Ordinance of God, therefore it is that we ſuffer by them who are out of the Power, and will not be ſubject to it; and to all Magiſtrates are we ſubject, who are the Mini<g ref="char:EOLhyphen"/>ſters of God for good, who Rule in, and by the Power, unto which all are to be ſubject for Conſcience ſake; but to thoſe who are out of the Power, unto which all are to be ſubject for Conſcience ſake, and have ſet by another in their own wills which is of the Prince of the power of the air, to that
+<pb n="7" facs="tcp:31648:4"/> for Conſcience ſake we cannot obey, but for Conſcience ſake towards God bear our Teſtimony againſt it, by our ſuf<g ref="char:EOLhyphen"/>ferings for the truths ſake, and otherwiſe as we are moved of the Lord, for we cannot be ſubject but for the Lords ſake; And for the laws you maintain contrary to Chriſt, for Con<g ref="char:EOLhyphen"/>ſcience ſake towards God, you are not bound to maintain them, for that which binds here, is in the will of man; therefore are you bound by the Will of God and for Con<g ref="char:EOLhyphen"/>ſcience ſake to throw them down, and ſo to break the bonds of wickedneſs, that the oppreſſed may go free, that ſo you may be eſtabliſhed in maintaining the righteous Law of God, that ye may become a bleſſing to theſe Nations, which if ye refuſe, ye will become a curſe.</p>
+            <p>And for honouring the perſons of the Magiſtrates with hat and knee, or the perſons of any men, that we deny, and what honour can they expect who are not veſſels of honour but of diſhonour, being not purged from theſe things, and ſo not fit for their Maſters uſe? Now whether ye be ſuch, let that of God in all your Conſciences, which cannot lye, judge, or whether you have gone from that which is truly honourable, and is that, in all, which is to be honoured? And thoſe that comes to this, neither honour nor reſpects mens perſons, nor honour one of another, but ſeeks the ho<g ref="char:EOLhyphen"/>nour woh cometh from God onely, which will ſtain the glory of all fleſh; now as the Lord requires, have we honoured all, for our love hath wrought unto all men without reſpect of perſons, that all might come to the knowledge of the truth, that they might be ſaved and redeemed from their vain con<g ref="char:EOLhyphen"/>verſations, even from the bondage of corruption into the glorious liberty of the Sons of God; and hath not the mouths of the ſervants of the Lord been opened towards you in dear love to your Souls and bodies, to warn you to repent and turn from that which will be your ruine, if you turn not betimes unto the Lord? and have not the ſervants of the Lord been made free (for the ſeeds ſake which is in you and among you, which moſt of you have not owned) to diſcover to you the Plots of your enemies that are intend<g ref="char:EOLhyphen"/>ing to devour ſome of you (which had you ſtood in the Coun<g ref="char:EOLhyphen"/>cel
+<pb n="8" facs="tcp:31648:5"/> of the Lord, had been under your feet, trodden on by you the duſt, for ſuch honour have all the Saints) and had not this been greater honour to you then the putting off the hat, and to give you flattering titles, which your enemies would do, if they came before you while miſchief were in their hearts againſt you; though when ſuch have come to ſome of you, to ſhew love in making known your enemies, becauſe they could not put off the hat and give you flattering titles, you would not ſuffer to come into the room to you; Is not this a ſhame that ſuch a thing as this ſhould be, when Jeſus Chriſt hath denied and ſhuts them out from the Faith, which have it but in reſpect of perſons? I ſay, that ſuch a thing as this ſhould be held up by them who profeſs to be<g ref="char:EOLhyphen"/>lieve in the Name of Chriſt Jeſus, who hath ſaid, I receive not honour from men; And how can ye believe that receive honour one of another, and ſeek not the honour which co<g ref="char:EOLhyphen"/>meth from God onely? But ſaith he, They loved the praiſe of men more then the praiſe of God, therefore came ruine to themſelves, and the Nation both. Now I ſay to you all, be you warned from the Lord God, that ye conſider theſe things betime, and turn not from the Councel of the Lord (which that of God in all your Conſciences, if you take heed unto it) will make manifeſt to you, that ye periſh not in your gain ſaying.</p>
+            <closer>
+               <dateline>This have I written in dear love to all your Souls, that the time and opportunity, put into your hands, may be by you faithfully improved, for the carrying on of the Lords work in this his day, as that of God in all your Conſciences shall make ma<g ref="char:EOLhyphen"/>nifeſt unto you, and whether you will hear or forbear I am clear of you all, having dealt plainly with you in the ſight of the Lord God, who am a Friend to all men without reſpect of perſons, for the ſeeds ſake.</dateline>
+               <signed>T. D.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:31648:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
